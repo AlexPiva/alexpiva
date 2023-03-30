@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Alexandre Piva 😁
+## Bem-vindo(a) ao perfil de Alexandre Piva  🤓
 
  <div>
    <a href="https://github.com/AlexPiva">
