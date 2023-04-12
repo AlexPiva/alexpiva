@@ -24,3 +24,12 @@
  
   ![Snake animation](https://github.com/AlexPiva/AlexPiva/blob/output/github-contribution-grid-snake.svg)
 </div>
+ 
+<div>
+ <h1></h1>
+ <ul>
+  <li><a href="https://alexpiva.github.io/pivasburguer/" target="_blank">Piva's Burguer</a></li>
+  <li><a href="https://alexpiva.github.io/projeto-cordel/" target="_blank">Cordel Moderno</a></li>
+  <li><a href="https://alexpiva.github.io/qr-code-component-main/" target="_blank">QR-Code</a></li>
+ </ul>
+</div>
