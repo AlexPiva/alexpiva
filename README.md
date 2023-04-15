@@ -31,6 +31,6 @@
   <li><a href="https://alexpiva.github.io/pivasburguer/" target="_blank">Piva's Burguer</a></li>
   <li><a href="https://alexpiva.github.io/projeto-cordel/" target="_blank">Cordel Moderno</a></li>
   <li><a href="https://alexpiva.github.io/qr-code-component-main/" target="_blank">QR-Code</a></li>
-  <li><a href="https://alexpiva.github.io/android/" target="_blank">QR-Code</a></li>
+  <li><a href="https://alexpiva.github.io/android/" target="_blank">Android</a></li>
  </ul>
 </div>
